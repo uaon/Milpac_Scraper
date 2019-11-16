@@ -1,0 +1,19 @@
+{
+  "name": "milpac_scraper",
+  "version": "1.0.0",
+  "description": "A Webscraping tool for getting 7th Cavalry Gaming  Milpacs Data for Billets and Current Active Members",
+  "main": "scrape.js",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "osmosis": "^1.1.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node scrape.js"
+  },
+  "keywords": [
+    "milpacs"
+  ],
+  "author": "Josh Edson <7cav.sweetwater@gmail.com> (https://github.com/uaon)",
+  "license": "MIT"
+}
